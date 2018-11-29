@@ -1,7 +1,8 @@
-### Demo Project for CRUD operations in Reactjs.
+## Demo Project for CRUD operations in Reactjs.
 
-## `npm start`
+### To run the project
 
-Runs the app in the development mode.<br>
+Clone this repository and cd into root project and type `npm start` to run the server.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
